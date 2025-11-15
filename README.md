@@ -470,4 +470,4 @@ For required environment variables, see `.env.template` in the project root.
   - Ensure the `.env` file syntax is correct (no extra quotes).
   - For frontend issues, check Node.js version (`node --version`) and logs in terminal.
 
-  #just checking my first commit here 
+  #just checking my first commit here again
