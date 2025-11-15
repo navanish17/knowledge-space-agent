@@ -469,3 +469,5 @@ For required environment variables, see `.env.template` in the project root.
   - Verify Python version (`python --version`) and that dependencies installed correctly.
   - Ensure the `.env` file syntax is correct (no extra quotes).
   - For frontend issues, check Node.js version (`node --version`) and logs in terminal.
+
+  #just checking my first commit here 
